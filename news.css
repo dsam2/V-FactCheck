@@ -60,7 +60,7 @@ footer {
 .hamburger{
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    gap: 8px;
     cursor: pointer;
      
 }
@@ -170,7 +170,7 @@ footer {
     text-align: center;
     margin-top: 20px;
     font-size: 14px;
-    border-top: 1px solid #a1a1a1;
+    border-top: 1px solid #ffffff;
     padding-top: 10px;
 }
 /* view*/
@@ -202,7 +202,7 @@ footer {
         background: #D8F4F5;
         padding: 15px;
         width: 100%;
-        border-top: 1px solid #000;
+        border-top: 1px solid #fffff;
     }
 
     /* Show menu when hamburger is clicked */
